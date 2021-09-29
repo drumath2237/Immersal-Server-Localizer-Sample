@@ -65,3 +65,7 @@ crashlytics-build.properties
 .idea/
 
 Assets/ImmersalRESTLocalizerTest/Settings/ImmersalConfig.asset
+
+Assets/ImmersalRESTLocalizerTest/PointCloud/31412-IshiPixelPortrait-tex.Materials/
+
+Assets/ImmersalRESTLocalizerTest/PointCloud/31412-IshiPixelPortrait-tex.Textures/

@@ -209,6 +209,22 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.vrmc.gltf": {
+      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/UniGLTF#v0.84.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.vrmc.vrmshaders": "0.84.0"
+      },
+      "hash": "024dadf9b3b7f83f02b11fd4f3288baf2ef7c106"
+    },
+    "com.vrmc.vrmshaders": {
+      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.84.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "024dadf9b3b7f83f02b11fd4f3288baf2ef7c106"
+    },
     "jp.keijiro.pcx": {
       "version": "1.0.1",
       "depth": 0,

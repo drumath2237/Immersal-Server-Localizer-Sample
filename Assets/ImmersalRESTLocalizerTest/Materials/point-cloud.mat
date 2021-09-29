@@ -22,7 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: point-cloud
   m_Shader: {fileID: 4800000, guid: 1baec256dca7c1642b87d05510e75a3f, type: 3}
-  m_ShaderKeywords: _DISTANCE_ON
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -98,7 +98,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distance: 1
+    - _Distance: 0
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
@@ -107,7 +107,7 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _PointSize: 0.005
+    - _PointSize: 0.03
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
